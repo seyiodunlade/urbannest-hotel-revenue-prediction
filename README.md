@@ -33,7 +33,7 @@ urbannest-hotel-revenue-prediction/
 ├── hotel_bookings.csv                           # Raw dataset (119,390 records)
 ├── Hospitality_1.ipynb                          # Jupyter Notebook (full analysis)
 ├── urbannest.sql                                # SQL queries for business analysis
-├── UrbanNest_Capstone_Report_Updated.docx       # Full project report
+├── UrbanNest_Capstone_Report_Updated.pdf       # Full project report
 └── UrbanNest_Capstone_Slides_Updated.pptx       # Presentation slides
 ```
 
@@ -155,7 +155,7 @@ jupyter notebook Hospitality_1.ipynb
 - ✅ Jupyter Notebook (.ipynb)
 - ✅ Raw Dataset (.csv)
 - ✅ SQL Analysis (.sql)
-- ✅ Capstone Report (.docx)
+- ✅ Capstone Report (.pdf)
 - ✅ Presentation Slides (.pptx)
 
 ---
